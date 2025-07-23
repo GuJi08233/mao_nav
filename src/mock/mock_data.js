@@ -287,6 +287,13 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
+          "id": "site-1753294470989",
+          "name": "超星学习通",
+          "url": "https://www.chaoxing.com",
+          "description": "懂得都懂",
+          "icon": "/sitelogo/www.chaoxing.com.ico"
+        },
+        {
           "id": "mdn",
           "name": "MDN Web Docs",
           "url": "https://developer.mozilla.org",
@@ -313,13 +320,6 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
-        },
-        {
-          "id": "site-1753294470989",
-          "name": "超星学习通",
-          "url": "https://www.chaoxing.com",
-          "description": "懂得都懂",
-          "icon": "/sitelogo/www.chaoxing.com.ico"
         },
         {
           "id": "site-1753294508007",
