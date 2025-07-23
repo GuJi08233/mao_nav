@@ -21,8 +21,8 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "newapi",
-          "name": "New API Cloudflare",
+          "id": "new-api",
+          "name": "New API",
           "url": "https://api.yishiguji.fun",
           "description": "AI模型接口管理与分发系统",
           "icon": "https://api.yishiguji.fun/logo.png"
