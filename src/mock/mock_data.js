@@ -81,6 +81,19 @@ export const mockData = {
           "url": "https://chat.wxccp.com",
           "description": "AI web应用",
           "icon": "https://favicon.yishiguji.me/?url=https://chat.wxccp.com"
+        },
+        {
+          "id": "site-1753298296026",
+          "name": "Gemini Balance",
+          "url": "https://gb.yishiguji.xyz",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1753298310939",
+          "name": "GPT Load",
+          "url": "https://guji0823-3.hf.space",
+          "description": ""
         }
       ]
     },
