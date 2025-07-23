@@ -315,18 +315,10 @@ export const mockData = {
           "icon": "/sitelogo/www.runoob.com.ico"
         },
         {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        },
-        {
           "id": "site-1753294508007",
           "name": "融合门户",
           "url": "https://portal0.peizheng.edu.cn/portal-web",
-          "description": "广东培正学院融合门户",
-          "icon": "https://zx0.peizheng.edu.cn/resources/service/servicePic/1587723949923_2b21231d-2f52-4893-b504-4c986572e800.jpg"
+          "description": "广东培正学院融合门户"
         }
       ]
     },
@@ -418,6 +410,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航",
-  "_fileSha": "fd136e40ea6b3f23b3237be2bc440ca59f692fe4"
+  "title": "孤寂导航"
 }
