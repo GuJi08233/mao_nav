@@ -265,5 +265,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "孤寂导航"
+  "title": "导航站"
 }
