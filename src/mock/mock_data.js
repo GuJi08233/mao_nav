@@ -108,10 +108,10 @@ export const mockData = {
         },
         {
           "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
+          "name": "Claw Cloud",
+          "url": "https://console.run.claw.cloud",
+          "description": "Claw Cloud",
+          "icon": "/sitelogo/console.run.claw.cloud.ico"
         },
         {
           "id": "aliyun",
@@ -133,20 +133,6 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
-        },
-        {
-          "id": "site-1753286990778",
-          "name": "Claw Cloud",
-          "url": "https://console.run.claw.cloud",
-          "description": "免费容器平台",
-          "icon": "/sitelogo/console.run.claw.cloud.ico"
         }
       ]
     },
@@ -488,6 +474,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航站",
-  "_fileSha": "5e994674db75abc45dd395469d4f7f7a6d6eb2c0"
+  "title": "孤寂导航"
 }
