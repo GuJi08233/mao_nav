@@ -168,6 +168,13 @@ export const mockData = {
           "url": "https://pan.yishiguji.me",
           "description": "个人网盘",
           "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://pan.yishiguji.me"
+        },
+        {
+          "id": "site-1753302055542",
+          "name": "免费数据库",
+          "url": "https://console.aiven.io",
+          "description": "",
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://console.aiven.io"
         }
       ]
     },
