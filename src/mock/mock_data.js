@@ -43,12 +43,6 @@ export const mockData = {
           "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
-          "id": "site-1753296157497",
-          "name": "Open WebUI",
-          "url": "https://chat.wxccp.com",
-          "description": "AI web应用"
-        },
-        {
           "id": "site-1753296208917",
           "name": "NeatChat",
           "url": "https://ai.yishiguji.me",
@@ -80,6 +74,13 @@ export const mockData = {
           "name": "Lobe Chat",
           "url": "https://chat.yishiguji.me",
           "description": ""
+        },
+        {
+          "id": "site-1753296157497",
+          "name": "Open WebUI",
+          "url": "https://chat.wxccp.com",
+          "description": "AI web应用",
+          "icon": "https://favicon.yishiguji.me/?url=https://chat.wxccp.com"
         }
       ]
     },
