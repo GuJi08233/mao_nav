@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1753286990778",
+          "name": "Claw Cloud",
+          "url": "https://console.run.claw.cloud",
+          "description": "免费容器平台",
+          "icon": "/sitelogo/console.run.claw.cloud.ico"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航站",
-  "_fileSha": "24b60a3d04893349bf92922b6836cdc019727ad7"
+  "title": "孤寂导航"
 }
