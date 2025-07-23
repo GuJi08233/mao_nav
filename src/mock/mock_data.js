@@ -171,9 +171,9 @@ export const mockData = {
         },
         {
           "id": "site-1753302055542",
-          "name": "免费数据库",
+          "name": "Aiven",
           "url": "https://console.aiven.io",
-          "description": "",
+          "description": "免费数据库",
           "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://console.aiven.io"
         }
       ]
