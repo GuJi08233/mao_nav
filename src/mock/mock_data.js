@@ -74,6 +74,12 @@ export const mockData = {
           "url": "https://api.guji.asia",
           "description": "AI模型接口管理与分发系统",
           "icon": "https://api.guji.asia/logo.png"
+        },
+        {
+          "id": "site-1753296376424",
+          "name": "Lobe Chat",
+          "url": "https://chat.yishiguji.me",
+          "description": ""
         }
       ]
     },
