@@ -46,14 +46,15 @@ export const mockData = {
           "id": "site-1753296208917",
           "name": "NeatChat",
           "url": "https://ai.yishiguji.me",
-          "description": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.yishiguji.me"
+          "description": "",
+		  "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.yishiguji.me"
         },
         {
           "id": "site-1753296219646",
           "name": "NeatChat",
           "url": "https://ai.guji.asia",
-          "description": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.guji.asia",
-          "icon": ""
+          "description": "",
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.guji.asia"
         },
         {
           "id": "site-1753295833752",
