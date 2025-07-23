@@ -46,13 +46,13 @@ export const mockData = {
           "id": "site-1753296208917",
           "name": "NeatChat",
           "url": "https://ai.yishiguji.me",
-          "description": ""
+          "description": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.yishiguji.me"
         },
         {
           "id": "site-1753296219646",
           "name": "NeatChat",
           "url": "https://ai.guji.asia",
-          "description": "",
+          "description": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.guji.asia",
           "icon": ""
         },
         {
@@ -73,27 +73,29 @@ export const mockData = {
           "id": "site-1753296376424",
           "name": "Lobe Chat",
           "url": "https://chat.yishiguji.me",
-          "description": ""
+          "description": "",
+		  "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://chat.yishiguji.me"
         },
         {
           "id": "site-1753296157497",
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
           "description": "AI web应用",
-          "icon": "https://favicon.yishiguji.me/?url=https://chat.wxccp.com"
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://chat.wxccp.com"
         },
         {
           "id": "site-1753298296026",
           "name": "Gemini Balance",
           "url": "https://gb.yishiguji.xyz",
           "description": "",
-          "icon": ""
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://gb.yishiguji.xyz"
         },
         {
           "id": "site-1753298310939",
           "name": "GPT Load",
           "url": "https://guji0823-3.hf.space",
-          "description": ""
+          "description": "",
+		  "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://guji0823-3.hf.space"
         }
       ]
     },
