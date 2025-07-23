@@ -47,14 +47,14 @@ export const mockData = {
           "name": "New API Cloudflare 渠道",
           "url": "https://api.yishiguji.fun",
           "description": "AI模型接口管理与分发系统",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://api.yishiguji.fun"
+          "icon": "https://api.yishiguji.fun/logo.png"
         },
         {
           "id": "site-1753295977060",
           "name": "New API edgeone 渠道",
           "url": "https://api.guji.asia",
           "description": "AI模型接口管理与分发系统",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://api.guji.asia"
+          "icon": "https://api.guji.asia/logo.png"
         }
       ]
     },
