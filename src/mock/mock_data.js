@@ -43,20 +43,6 @@ export const mockData = {
           "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
-          "id": "site-1753295833752",
-          "name": "New API Cloudflare 渠道",
-          "url": "https://api.yishiguji.fun",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.yishiguji.fun/logo.png"
-        },
-        {
-          "id": "site-1753295977060",
-          "name": "New API edgeone 渠道",
-          "url": "https://api.guji.asia",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.guji.asia/logo.png"
-        },
-        {
           "id": "site-1753296157497",
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
@@ -74,6 +60,20 @@ export const mockData = {
           "url": "https://ai.guji.asia",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1753295833752",
+          "name": "New API Cloudflare",
+          "url": "https://api.yishiguji.fun",
+          "description": "AI模型接口管理与分发系统",
+          "icon": "https://api.yishiguji.fun/logo.png"
+        },
+        {
+          "id": "site-1753295977060",
+          "name": "New API edgeone",
+          "url": "https://api.guji.asia",
+          "description": "AI模型接口管理与分发系统",
+          "icon": "https://api.guji.asia/logo.png"
         }
       ]
     },
