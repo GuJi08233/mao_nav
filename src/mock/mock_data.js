@@ -21,11 +21,11 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1753296208917",
-          "name": "NeatChat",
-          "url": "https://ai.yishiguji.me",
-          "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.yishiguji.me"
+          "id": "newapi",
+          "name": "New API Cloudflare",
+          "url": "https://api.yishiguji.fun",
+          "description": "AI模型接口管理与分发系统",
+          "icon": "https://api.yishiguji.fun/logo.png"
         },
 		{
           "id": "cloudflare",
