@@ -39,21 +39,21 @@ export const mockData = {
           "id": "site-1753295168569",
           "name": "Google Gemini",
           "url": "https://gemini.google.com",
-          "description": "",
+          "description": "Gemini 网页对话",
           "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
           "id": "site-1753295833752",
           "name": "New API Cloudflare 渠道",
           "url": "https://api.yishiguji.fun",
-          "description": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用。",
+          "description": "AI模型接口管理与分发系统",
           "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://api.yishiguji.fun"
         },
         {
           "id": "site-1753295977060",
           "name": "New API edgeone 渠道",
           "url": "https://api.guji.asia",
-          "description": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用。",
+          "description": "AI模型接口管理与分发系统",
           "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://api.guji.asia"
         }
       ]
