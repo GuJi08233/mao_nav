@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://gemini.google.com",
           "description": "",
           "icon": "/sitelogo/gemini.google.com.ico"
+        },
+        {
+          "id": "site-1753295833752",
+          "name": "New API",
+          "url": "https://api.yishiguji.fun",
+          "description": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用。",
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://api.yishiguji.fun"
         }
       ]
     },
