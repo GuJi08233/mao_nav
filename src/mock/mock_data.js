@@ -55,6 +55,25 @@ export const mockData = {
           "url": "https://api.guji.asia",
           "description": "AI模型接口管理与分发系统",
           "icon": "https://api.guji.asia/logo.png"
+        },
+        {
+          "id": "site-1753296157497",
+          "name": "Open WebUI",
+          "url": "https://chat.wxccp.com",
+          "description": "AI web应用"
+        },
+        {
+          "id": "site-1753296208917",
+          "name": "NeatChat",
+          "url": "https://ai.yishiguji.me",
+          "description": ""
+        },
+        {
+          "id": "site-1753296219646",
+          "name": "NeatChat",
+          "url": "https://ai.guji.asia",
+          "description": "",
+          "icon": ""
         }
       ]
     },
