@@ -82,21 +82,21 @@ export const mockData = {
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
           "description": "AI web应用",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://chat.wxccp.com"
+          "icon": "https://chat.wxccp.com/static/favicon.png"
         },
         {
           "id": "site-1753298296026",
           "name": "Gemini Balance",
           "url": "https://gb.yishiguji.xyz",
           "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://gb.yishiguji.xyz"
+          "icon": "https://gb.yishiguji.xyz/static/icons/logo.png"
         },
         {
           "id": "site-1753298310939",
           "name": "GPT Load",
           "url": "https://guji0823-3.hf.space",
           "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://guji0823-3.hf.space"
+          "icon": "https://guji0823-3.hf.space/assets/logo-BV-_qOqO.png"
         }
       ]
     },
