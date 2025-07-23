@@ -27,7 +27,7 @@ export const mockData = {
           "description": "AI模型接口管理与分发系统",
           "icon": "https://api.yishiguji.fun/logo.png"
         },
-		{
+        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
@@ -161,6 +161,13 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
+        },
+        {
+          "id": "site-1753300951980",
+          "name": "OpenList",
+          "url": "https://pan.yishiguji.me",
+          "description": "个人网盘",
+          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://pan.yishiguji.me"
         }
       ]
     },
