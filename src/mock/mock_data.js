@@ -28,11 +28,11 @@ export const mockData = {
           "icon": "https://api.yishiguji.fun/logo.png"
         },
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "id": "site-1753563998250",
+          "name": "Uptime kumu",
+          "url": "https://status.guji.asia",
+          "description": "监控服务",
+          "icon": "https://status.guji.asia/icon.svg"
         }
       ]
     },
