@@ -288,7 +288,8 @@ export const mockData = {
           "id": "site-1753294508007",
           "name": "融合门户",
           "url": "https://portal0.peizheng.edu.cn/portal-web",
-          "description": "广东培正学院融合门户"
+          "description": "广东培正学院融合门户",
+          "icon": "https://zx0.peizheng.edu.cn/resources/service/servicePic/1587723949923_2b21231d-2f52-4893-b504-4c986572e800.jpg"
         }
       ]
     }
