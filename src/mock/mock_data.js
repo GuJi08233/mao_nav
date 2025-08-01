@@ -30,9 +30,9 @@ export const mockData = {
         {
           "id": "site-1753563998250",
           "name": "Uptime kumu",
-          "url": "https://kuma.guji.asia/",
+          "url": "https://uptime.guji.asia",
           "description": "监控服务",
-          "icon": "https://kuma.guji.asia/icon.svg"
+          "icon": "https://uptime.guji.asia/icon.svg"
         }
       ]
     },
@@ -69,13 +69,6 @@ export const mockData = {
           "url": "https://chat.wxccp.com",
           "description": "AI web应用",
           "icon": "https://chat.wxccp.com/static/favicon.png"
-        },
-        {
-          "id": "site-1753298296026",
-          "name": "Gemini Balance",
-          "url": "https://gb.yishiguji.xyz",
-          "description": "",
-          "icon": "https://gb.yishiguji.xyz/static/icons/logo.png"
         },
         {
           "id": "site-1753298310939",
