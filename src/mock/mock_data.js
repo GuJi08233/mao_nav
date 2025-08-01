@@ -21,18 +21,18 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "new-api",
-          "name": "New API",
-          "url": "https://api.yishiguji.fun",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.yishiguji.fun/logo.png"
-        },
-        {
           "id": "site-1753563998250",
           "name": "Uptime kumu",
           "url": "https://status.guji.asia",
           "description": "监控服务",
           "icon": "https://status.guji.asia/icon.svg"
+        },
+        {
+          "id": "new-api",
+          "name": "New API",
+          "url": "https://api.guji.asia",
+          "description": "AI模型接口管理与分发系统 edgeone",
+          "icon": "https://api.guji.asia/logo.png"
         }
       ]
     },
