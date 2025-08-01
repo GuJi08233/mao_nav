@@ -31,7 +31,7 @@ export const mockData = {
           "id": "new-api",
           "name": "New API",
           "url": "https://api.guji.asia",
-          "description": "AI模型接口管理与分发系统 edgeone",
+          "description": "edgeone",
           "icon": "https://api.guji.asia/logo.png"
         }
       ]
