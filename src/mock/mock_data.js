@@ -64,34 +64,6 @@ export const mockData = {
           "icon": "https://api.yishiguji.fun/logo.png"
         },
         {
-          "id": "site-1753295977060",
-          "name": "New API edgeone",
-          "url": "https://api.guji.asia",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.guji.asia/logo.png"
-        },
-        {
-          "id": "site-1753296208917",
-          "name": "NeatChat",
-          "url": "https://ai.yishiguji.me",
-          "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.yishiguji.me"
-        },
-        {
-          "id": "site-1753296219646",
-          "name": "NeatChat",
-          "url": "https://ai.guji.asia",
-          "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://ai.guji.asia"
-        },
-        {
-          "id": "site-1753296376424",
-          "name": "Lobe Chat",
-          "url": "https://chat.yishiguji.me",
-          "description": "",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://chat.yishiguji.me"
-        },
-        {
           "id": "site-1753296157497",
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
@@ -111,6 +83,13 @@ export const mockData = {
           "url": "https://guji0823-3.hf.space",
           "description": "",
           "icon": "https://guji0823-3.hf.space/assets/logo-BV-_qOqO.png"
+        },
+        {
+          "id": "site-1753296376424",
+          "name": "Lobe Chat",
+          "url": "https://chat.yishiguji.me",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://chat.yishiguji.me"
         }
       ]
     },
@@ -167,14 +146,14 @@ export const mockData = {
           "name": "OpenList",
           "url": "https://pan.yishiguji.me",
           "description": "个人网盘",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://pan.yishiguji.me"
+          "icon": "https://favicon.yishiguji.me/?url=https://pan.yishiguji.me"
         },
         {
           "id": "site-1753302055542",
           "name": "Aiven",
           "url": "https://console.aiven.io",
           "description": "免费数据库",
-          "icon": "https://favicon-zone-3eeuxhvh9idu-1312418647.eo-edgefunctions.com/?url=https://console.aiven.io"
+          "icon": "https://favicon.yishiguji.me/?url=https://console.aiven.io"
         }
       ]
     },
