@@ -21,18 +21,18 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1753563998250",
-          "name": "Uptime kumu",
-          "url": "https://status.guji.asia",
-          "description": "监控服务",
-          "icon": "https://status.guji.asia/icon.svg"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://api.guji.asia",
           "description": "edgeone",
           "icon": "https://api.guji.asia/logo.png"
+        },
+        {
+          "id": "site-1753563998250",
+          "name": "Uptime kumu",
+          "url": "https://kuma.guji.asia/",
+          "description": "监控服务",
+          "icon": "https://kuma.guji.asia/icon.svg"
         }
       ]
     },
