@@ -64,18 +64,25 @@ export const mockData = {
           "icon": "https://api.yishiguji.fun/logo.png"
         },
         {
-          "id": "site-1753296157497",
-          "name": "Open WebUI",
-          "url": "https://chat.wxccp.com",
-          "description": "AI web应用",
-          "icon": "https://chat.wxccp.com/static/favicon.png"
-        },
-        {
           "id": "site-1753298310939",
           "name": "GPT Load",
           "url": "https://guji0823-3.hf.space",
           "description": "",
           "icon": "https://guji0823-3.hf.space/assets/logo-BV-_qOqO.png"
+        },
+        {
+          "id": "site-1754171800076",
+          "name": "Gemini Balance",
+          "url": "https://gemini-balance.guji.asia/",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://gemini-balance.guji.asia"
+        },
+        {
+          "id": "site-1753296157497",
+          "name": "Open WebUI",
+          "url": "https://chat.wxccp.com",
+          "description": "AI web应用",
+          "icon": "https://chat.wxccp.com/static/favicon.png"
         },
         {
           "id": "site-1753296376424",
@@ -135,18 +142,25 @@ export const mockData = {
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
-          "id": "site-1753300951980",
-          "name": "OpenList",
-          "url": "https://pan.yishiguji.me",
-          "description": "个人网盘",
-          "icon": "https://favicon.yishiguji.me/?url=https://pan.yishiguji.me"
-        },
-        {
           "id": "site-1753302055542",
           "name": "Aiven",
           "url": "https://console.aiven.io",
           "description": "免费数据库",
           "icon": "https://favicon.yishiguji.me/?url=https://console.aiven.io"
+        },
+        {
+          "id": "site-1753300951980",
+          "name": "OpenList",
+          "url": "https://pan.guji.asia/",
+          "description": "个人网盘",
+          "icon": "https://favicon.yishiguji.me/?url=https://pan.guji.asia"
+        },
+        {
+          "id": "site-1754171876751",
+          "name": "n8n",
+          "url": "https://n8n-dpxlzoka.ap-northeast-1.clawcloudrun.com",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://n8n-dpxlzoka.ap-northeast-1.clawcloudrun.com"
         }
       ]
     },
