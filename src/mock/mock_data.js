@@ -158,9 +158,9 @@ export const mockData = {
         {
           "id": "site-1754171876751",
           "name": "n8n",
-          "url": "https://zoesif-jyomic-5678.app.cloudstudio.work",
+          "url": "https://n8n-dfouaiwm.ap-northeast-1.clawcloudrun.com/",
           "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://zoesif-jyomic-5678.app.cloudstudio.work"
+          "icon": "https://favicon.yishiguji.me/?url=https://n8n-dfouaiwm.ap-northeast-1.clawcloudrun.com/"
         }
       ]
     },
