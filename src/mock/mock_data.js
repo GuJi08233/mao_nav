@@ -64,20 +64,6 @@ export const mockData = {
           "icon": "https://api.yishiguji.fun/logo.png"
         },
         {
-          "id": "site-1753298310939",
-          "name": "GPT Load",
-          "url": "https://guji0823-3.hf.space",
-          "description": "",
-          "icon": "https://guji0823-3.hf.space/assets/logo-BV-_qOqO.png"
-        },
-        {
-          "id": "site-1754171800076",
-          "name": "Gemini Balance",
-          "url": "https://gemini-balance.guji.asia/",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://gemini-balance.guji.asia"
-        },
-        {
           "id": "site-1753296157497",
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
@@ -90,6 +76,20 @@ export const mockData = {
           "url": "https://chat.yishiguji.me",
           "description": "",
           "icon": "https://favicon.yishiguji.me/?url=https://chat.yishiguji.me"
+        },
+        {
+          "id": "site-1754171800076",
+          "name": "Gemini Balance",
+          "url": "https://gemini-balance.guji.asia/",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://gemini-balance.guji.asia"
+        },
+        {
+          "id": "site-1753298310939",
+          "name": "GPT Load",
+          "url": "https://gpt-load.guji.asia",
+          "description": "",
+          "icon": "https://gpt-load.guji.asia/assets/logo-BV-_qOqO.png"
         }
       ]
     },
