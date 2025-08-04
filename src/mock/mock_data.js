@@ -154,13 +154,6 @@ export const mockData = {
           "url": "https://pan.guji.asia/",
           "description": "个人网盘",
           "icon": "https://favicon.yishiguji.me/?url=https://pan.guji.asia"
-        },
-        {
-          "id": "site-1754171876751",
-          "name": "n8n",
-          "url": "https://n8n-dfouaiwm.ap-northeast-1.clawcloudrun.com/",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://n8n-dfouaiwm.ap-northeast-1.clawcloudrun.com/"
         }
       ]
     },
