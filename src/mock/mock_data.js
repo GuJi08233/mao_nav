@@ -154,6 +154,13 @@ export const mockData = {
           "url": "https://pan.guji.asia/",
           "description": "个人网盘",
           "icon": "https://favicon.yishiguji.me/?url=https://pan.guji.asia"
+        },
+        {
+          "id": "site-1754387453651",
+          "name": "n8n",
+          "url": "https://n8n.yishiguji.xyz",
+          "description": "工作流",
+          "icon": "https://favicon.yishiguji.me/?url=https://n8n.yishiguji.xyz"
         }
       ]
     },
