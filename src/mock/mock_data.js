@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://api.guji.asia",
@@ -33,6 +26,13 @@ export const mockData = {
           "url": "https://uptime.guji.asia",
           "description": "监控服务",
           "icon": "https://uptime.guji.asia/icon.svg"
+        },
+        {
+          "id": "site-1754391063610",
+          "name": "n8n",
+          "url": "https://n8n.guji.asia/",
+          "description": "edgeone",
+          "icon": "https://favicon.yishiguji.me/?url=https://n8n.guji.asia/"
         }
       ]
     },
