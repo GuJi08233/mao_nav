@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://n8n.guji.asia/",
           "description": "edgeone",
           "icon": "https://favicon.yishiguji.me/?url=https://n8n.guji.asia/"
+        },
+        {
+          "id": "site-1755314381161",
+          "name": "MoonTV",
+          "url": "https://tv.guji.asia",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://tv.guji.asia"
         }
       ]
     },
