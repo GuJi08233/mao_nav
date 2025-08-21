@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://tv.guji.asia",
           "description": "",
           "icon": "https://favicon.yishiguji.me/?url=https://tv.guji.asia"
+        },
+        {
+          "id": "site-1755753651416",
+          "name": "NotionNext",
+          "url": "https://notion.yishiguji.me/",
+          "description": "一个NotionNext搭建的博客",
+          "icon": "https://favicon.yishiguji.me/?url=https://notion.yishiguji.me"
         }
       ]
     },
