@@ -104,6 +104,12 @@ export const mockData = {
           "url": "https://gpt-load.guji.asia",
           "description": "",
           "icon": "https://gpt-load.guji.asia/assets/logo-BV-_qOqO.png"
+        },
+        {
+          "id": "site-1758111687293",
+          "name": "gcli2api",
+          "url": "https://gcli2api.guji.asia",
+          "description": "gcli2api"
         }
       ]
     },
