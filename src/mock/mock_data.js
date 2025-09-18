@@ -71,13 +71,6 @@ export const mockData = {
           "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
-          "id": "site-1753295833752",
-          "name": "New API Cloudflare",
-          "url": "https://api.yishiguji.fun",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.yishiguji.fun/logo.png"
-        },
-        {
           "id": "site-1753296157497",
           "name": "Open WebUI",
           "url": "https://chat.wxccp.com",
@@ -92,13 +85,6 @@ export const mockData = {
           "icon": "https://favicon.yishiguji.me/?url=https://chat.yishiguji.me"
         },
         {
-          "id": "site-1754171800076",
-          "name": "Gemini Balance",
-          "url": "https://gemini-balance.guji.asia/",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://gemini-balance.guji.asia"
-        },
-        {
           "id": "site-1753298310939",
           "name": "GPT Load",
           "url": "https://gpt-load.guji.asia",
@@ -110,6 +96,20 @@ export const mockData = {
           "name": "gcli2api",
           "url": "https://gcli2api.guji.asia",
           "description": "gcli2api"
+        },
+        {
+          "id": "site-1753295833752",
+          "name": "New API Render",
+          "url": "https://api.yishiguji.me",
+          "description": "AI模型接口管理与分发系统",
+          "icon": "https://api.yishiguji.me/logo.png"
+        },
+        {
+          "id": "site-1754171800076",
+          "name": "Gemini Balance",
+          "url": "https://gb.guji.asia",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://gb.guji.asia"
         }
       ]
     },
