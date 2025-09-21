@@ -253,6 +253,12 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1758497258045",
+          "name": "IDC Flare",
+          "url": "https://idcflare.com",
+          "description": "域名、主机等信息集散地"
         }
       ]
     },
