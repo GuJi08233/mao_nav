@@ -258,7 +258,8 @@ export const mockData = {
           "id": "site-1758497258045",
           "name": "IDC Flare",
           "url": "https://idcflare.com",
-          "description": "域名、主机等信息集散地"
+          "description": "域名、主机等信息集散地",
+          "icon": "https://idcflare.com/logo-256.svg"
         }
       ]
     },
