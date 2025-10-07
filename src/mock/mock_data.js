@@ -141,6 +141,13 @@ export const mockData = {
           "icon": "/sitelogo/console.run.claw.cloud.ico"
         },
         {
+          "id": "site-1759860485935",
+          "name": "Leaflow",
+          "url": "https://leaflow.net/",
+          "description": "免费云应用平台服务",
+          "icon": "https://leaflow.net/build/assets/Logo-COIKldAv.png"
+        },
+        {
           "id": "aliyun",
           "name": "阿里云",
           "url": "https://www.aliyun.com",
@@ -162,6 +169,13 @@ export const mockData = {
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
+          "id": "site-1754387453651",
+          "name": "n8n",
+          "url": "https://n8n.yishiguji.xyz",
+          "description": "工作流",
+          "icon": "https://favicon.yishiguji.me/?url=https://n8n.yishiguji.xyz"
+        },
+        {
           "id": "site-1753302055542",
           "name": "Aiven",
           "url": "https://console.aiven.io",
@@ -174,13 +188,6 @@ export const mockData = {
           "url": "https://pan.guji.asia/",
           "description": "个人网盘",
           "icon": "https://favicon.yishiguji.me/?url=https://pan.guji.asia"
-        },
-        {
-          "id": "site-1754387453651",
-          "name": "n8n",
-          "url": "https://n8n.yishiguji.xyz",
-          "description": "工作流",
-          "icon": "https://favicon.yishiguji.me/?url=https://n8n.yishiguji.xyz"
         }
       ]
     },
