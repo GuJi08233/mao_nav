@@ -78,20 +78,6 @@ export const mockData = {
           "icon": "https://chat.wxccp.com/static/favicon.png"
         },
         {
-          "id": "site-1753296376424",
-          "name": "Lobe Chat",
-          "url": "https://chat.yishiguji.me",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://chat.yishiguji.me"
-        },
-        {
-          "id": "site-1753298310939",
-          "name": "GPT Load",
-          "url": "https://gpt-load.guji.asia",
-          "description": "",
-          "icon": "https://gpt-load.guji.asia/assets/logo-BV-_qOqO.png"
-        },
-        {
           "id": "site-1758111687293",
           "name": "gcli2api",
           "url": "https://gcli2api.guji.asia",
@@ -110,6 +96,13 @@ export const mockData = {
           "url": "https://gb.guji.asia",
           "description": "",
           "icon": "https://favicon.yishiguji.me/?url=https://gb.guji.asia"
+        },
+        {
+          "id": "site-1753298310939",
+          "name": "GPT Load",
+          "url": "https://gpt-load.guji.asia",
+          "description": "",
+          "icon": "https://gpt-load.guji.asia/assets/logo-Bvc5MQ_X.png"
         }
       ]
     },
