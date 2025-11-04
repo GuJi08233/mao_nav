@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "new-api",
-          "name": "New API",
-          "url": "https://api.guji.asia",
-          "description": "edgeone",
-          "icon": "https://api.guji.asia/logo.png"
-        },
-        {
           "id": "site-1753563998250",
           "name": "Uptime kumu",
           "url": "https://uptime.guji.asia",
@@ -47,6 +40,13 @@ export const mockData = {
           "url": "https://notion.yishiguji.me/",
           "description": "一个NotionNext搭建的博客",
           "icon": "https://favicon.yishiguji.me/?url=https://notion.yishiguji.me"
+        },
+        {
+          "id": "new-api",
+          "name": "New API",
+          "url": "https://api.yishiguji.fun",
+          "description": "Zeabur",
+          "icon": "https://api.yishiguji.fun/logo.png"
         }
       ]
     },
