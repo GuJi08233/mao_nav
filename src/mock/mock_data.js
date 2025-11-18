@@ -28,13 +28,6 @@ export const mockData = {
           "icon": "https://favicon.yishiguji.me/?url=https://n8n.guji.asia/"
         },
         {
-          "id": "site-1755314381161",
-          "name": "MoonTV",
-          "url": "https://tv.guji.asia",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://tv.guji.asia"
-        },
-        {
           "id": "site-1755753651416",
           "name": "NotionNext",
           "url": "https://notion.yishiguji.me/",
@@ -47,6 +40,13 @@ export const mockData = {
           "url": "https://api.yishiguji.fun",
           "description": "Zeabur",
           "icon": "https://api.yishiguji.fun/logo.png"
+        },
+        {
+          "id": "site-1755314381161",
+          "name": "MoonTV",
+          "url": "https://tv.yishiguji.fun",
+          "description": "",
+          "icon": "https://favicon.yishiguji.me/?url=https://tv.yishiguji.fun"
         }
       ]
     },
