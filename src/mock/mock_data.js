@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "site-1753563998250",
-          "name": "Uptime kumu",
-          "url": "https://uptime.guji.asia",
-          "description": "监控服务",
-          "icon": "https://uptime.guji.asia/icon.svg"
-        },
-        {
           "id": "site-1754391063610",
           "name": "n8n",
           "url": "https://n8n.guji.asia/",
