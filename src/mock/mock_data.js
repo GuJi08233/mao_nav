@@ -93,9 +93,9 @@ export const mockData = {
         {
           "id": "site-1753295833752",
           "name": "New API Zeabur",
-          "url": "https://api.yishiguji.fun",
+          "url": "https://guji.zeabur.app",
           "description": "AI模型接口管理与分发系统",
-          "icon": "https://api.yishiguji.fun/logo.png"
+          "icon": "https://guji.zeabur.app/logo.png"
         }
       ]
     },
