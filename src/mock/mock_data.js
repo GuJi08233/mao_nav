@@ -71,19 +71,6 @@ export const mockData = {
           "icon": "https://chat.wxccp.com/static/favicon.png"
         },
         {
-          "id": "site-1758111687293",
-          "name": "gcli2api",
-          "url": "https://gcli2api.guji.asia",
-          "description": "gcli2api"
-        },
-        {
-          "id": "site-1754171800076",
-          "name": "Gemini Balance",
-          "url": "https://gb.guji.asia",
-          "description": "",
-          "icon": "https://favicon.yishiguji.me/?url=https://gb.guji.asia"
-        },
-        {
           "id": "site-1753298310939",
           "name": "GPT Load",
           "url": "https://gpt-load.guji.asia",
