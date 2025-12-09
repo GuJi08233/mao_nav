@@ -37,9 +37,9 @@ export const mockData = {
         {
           "id": "new-api",
           "name": "New API",
-          "url": "https://api.guji.uno",
-          "description": "Leaflow",
-          "icon": "https://api.guji.uno/logo.png"
+          "url": "https://api.guji.asia",
+          "description": "登录站点",
+          "icon": "https://api.guji.asia/logo.png"
         }
       ]
     },
