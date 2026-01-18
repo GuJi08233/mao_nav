@@ -73,16 +73,9 @@ export const mockData = {
         {
           "id": "site-1753298310939",
           "name": "GPT Load",
-          "url": "https://gpt-load.guji.asia",
+          "url": "https://guji0823-3.hf.space",
           "description": "",
-          "icon": "https://gpt-load.guji.asia/assets/logo-Bvc5MQ_X.png"
-        },
-        {
-          "id": "site-1753295833752",
-          "name": "New API Zeabur",
-          "url": "https://guji.zeabur.app",
-          "description": "AI模型接口管理与分发系统",
-          "icon": "https://guji.zeabur.app/logo.png"
+          "icon": "https://guji0823-3.hf.space/assets/logo-Bvc5MQ_X.png"
         }
       ]
     },
