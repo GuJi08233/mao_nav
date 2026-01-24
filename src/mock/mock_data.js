@@ -73,9 +73,9 @@ export const mockData = {
         {
           "id": "site-1753298310939",
           "name": "GPT Load",
-          "url": "https://guji0823-3.hf.space",
+          "url": "https://openai.guji.asia",
           "description": "",
-          "icon": "https://guji0823-3.hf.space/assets/logo-Bvc5MQ_X.png"
+          "icon": "https://openai.guji.asia/assets/logo-Bvc5MQ_X.png"
         }
       ]
     },
